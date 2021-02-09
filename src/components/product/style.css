@@ -1,0 +1,7 @@
+.product{
+
+    background-color: chartreuse;
+    
+    width: 700px;
+    display: flex;
+}
